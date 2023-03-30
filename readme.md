@@ -1,4 +1,4 @@
-# Calculate the area of surface parking owned by the State of California
+### Calculate the area of surface parking owned by the State of California
 
 I found a database of state real estate holdings [here](https://www.dgsapps.dgs.ca.gov/RESD/SPI-Web/wscripts/spi.asp?action=Main), which had [this REST Service](https://services8.arcgis.com/a4GMqC2tQHvYiVtK/ArcGIS/rest/services/SPIPublicMapViewer/FeatureServer/2) of [points](carealestate.geojson).
 
